@@ -1,0 +1,49 @@
+.btn1{
+    background-color: lightblue;
+    padding: 2px 2px;
+    margin-right: 7px;
+    border-radius: 5px;
+}
+.btn2{
+    background-color: lightgreen;
+    padding: 2px 2px;
+    border-radius: 5px;
+    margin-right: 7px;
+}
+.btn3{
+    background-color: blueviolet;
+    padding: 2px 2px;
+    border-radius: 5px;
+    margin-right: 7px;
+}
+.btn4{
+    background-color: aqua;
+    padding: 2px 2px;
+    border-radius: 5px;
+    margin-right: 7px;
+}
+.btn5{
+    background-color: lightpink;
+    padding: 2px 2px;
+    border-radius: 5px;
+    margin-right: 7px;
+}
+.form-control{
+    border-color: blueviolet;
+}
+.Copybtn{
+    background-color: aqua;
+}
+
+nav{
+    background-color: black;
+}
+
+.container-fluid h5 {
+    color: white;
+    font-size: large;
+
+}
+li{
+    color: aliceblue;
+}
